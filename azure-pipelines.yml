@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-  name: 'sandeep'   # self-hosted agent
+  name: 'Default'   # self-hosted agent
 variables:
   buildConfiguration: 'Release'
 steps:
